@@ -63,4 +63,5 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 This project is licensed under the MIT License.
 
 ## Contract Details:0x3D169FB04899fd2A23fB4263101Eb8dce9cEF045
-![image](https://github.com/user-attachments/assets/7876c8c3-55bb-47e1-b518-cf6cd8ad7aaa)
+![Screenshot 2025-04-07 125105](https://github.com/user-attachments/assets/72ba8a32-a1f9-4e07-8248-fdc8277578a1)
+
